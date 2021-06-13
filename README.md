@@ -1,0 +1,1 @@
+This is Little JDBC example with a little Design Pattern..
